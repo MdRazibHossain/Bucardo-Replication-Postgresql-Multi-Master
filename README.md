@@ -11,3 +11,6 @@ First of all, add the all host names in the /etc/hosts both servers (master serv
 
 #### sudo reboot
 #### sudo apt update -y
+
+### Master1
+
